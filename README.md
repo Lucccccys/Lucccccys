@@ -1,22 +1,68 @@
 <div align="center">
-  
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Hi!"/> I'm **Lucas Chu**  
+
+# Lucas Chu
+
+**Software Engineering | Applied AI | LLM Agents**
+
+Master of Data Science and Artificial Intelligence (Co-op), University of Waterloo  
+Bachelor of Computing (Artificial Intelligence Focus), Queen's University
+
+[LinkedIn](https://www.linkedin.com/in/lucaschu-yc) · [Email](mailto:y46chu@uwaterloo.ca) · [Resume](https://github.com/Lucccccys/Lucas-Resume)
 
 </div>
 
----
+## About
 
-## 👦 About Me
+I'm a software engineer and graduate student interested in building reliable, practical AI-powered systems. My experience spans **LLM agent evaluation, Python development, data pipelines, backend applications, automation, and software testing**.
 
-🎓 Bachelor of Computing (Honours) @ Queen’s University.  
-🌟 A passionate Computing student who loves **building practical solutions** with a strong focus on **software development**, **web technologies**, and **AI**.  
-🚀 Striving to bridge academic knowledge with real-world applications through hands-on projects and professional experience.  
+I particularly enjoy understanding why systems fail, turning that analysis into improvements, and building tools that make engineering work more effective.
 
----
+## Featured Projects
 
-## 🛠️ Skills
+### [Tracing and Mitigating Hallucinations in LLM-Powered Coding Agents](https://github.com/Lucccccys/LLM-Coding-Agent)
+*Python · OpenHands · SWE-bench Verified · LLM Evaluation*
 
-| Language | Web | Database | Tools & Testing |
-|:--------:|:---:|:--------:|:---------------:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) |
+- Built a Python pipeline to analyze **245 agent execution trajectories** at the step and instance levels.
+- Investigated hallucination patterns in repository-level coding agents, including tool use, code edits, and repeated execution loops.
+- Evaluated targeted mitigations. The project's reported comparisons showed **27% lower hallucination scores** and **78% fewer failed edits**.
 
+### [Conference Management System](https://github.com/Lucccccys/Conference-Web-App)
+*PHP · MySQL · HTML/CSS*
+
+- Built a database-backed web application for attendee management, session scheduling, sponsorships, hotel bookings, and financial summaries.
+
+### [Gomoku Web App](https://github.com/Lucccccys/Gomoku)
+*Python · Flask · Flask-SocketIO*
+
+- Developed an interactive Gomoku application with configurable board sizes and real-time game updates.
+
+### [Health Data Analysis](https://github.com/Lucccccys/Medical-Cancer-Health-Data-Analysics)
+*R · Data Analysis · Predictive Modeling*
+
+- Explored and modeled health datasets through data cleaning, exploratory analysis, and model evaluation.
+
+## Engineering Experience
+
+**Ontario Public Service | Technical Analyst, Data Automation & GenAI**  
+Supported an internal GenAI assistant through RAG prototyping, MLflow experiments, data preparation, and chatbot evaluation. Also automated recurring financial-data workflows and contributed to QA/UAT.
+
+**Intellifusion | AI Platform Engineer Intern**  
+Integrated and validated AI modules across video analytics, OCR, NLP, and voice. Worked on detection-pipeline improvements and edge performance optimization.
+
+**SHEIN | Software Engineer Intern**  
+Developed API regression tests with Python, Requests, and Pytest, and created Python/Shell automation for engineering workflows.
+
+## Technical Skills
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, Java, C/C++, JavaScript, SQL, R |
+| **AI & Data** | LLM evaluation, OpenHands, SWE-bench, RAG, MLflow, Pandas, Azure |
+| **Software Development** | Flask, Django, React, Node.js, PHP, MySQL |
+| **Tools & Testing** | Git, Linux, Requests, Pytest, Selenium, Bash |
+
+## Interests
+
+Applied AI and LLM agents, backend engineering, developer tools, AI reliability, and engineering productivity.
+
+[Explore my repositories](https://github.com/Lucccccys?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/lucaschu-yc)
