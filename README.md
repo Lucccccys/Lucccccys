@@ -26,6 +26,12 @@ I particularly enjoy understanding why systems fail, turning that analysis into 
 - Investigated hallucination patterns in repository-level coding agents, including tool use, code edits, and repeated execution loops.
 - Evaluated targeted mitigations. The project's reported comparisons showed **27% lower hallucination scores** and **78% fewer failed edits**.
 
+### [Gridworld Coverage with Reinforcement Learning (PPO)](https://github.com/Lucccccys/474-Project-Coverage-Tournament)
+*Python · Reinforcement Learning · PPO · Gymnasium · Stable-Baselines3*
+
+- Trained a PPO agent to explore obstacle-filled gridworld maps while avoiding rotating enemies, using approximately **3 million training steps** across mixed-difficulty environments.
+- Compared **20 observation/reward configurations** and developed reward shaping with BFS navigation features, safety penalties, and anti-looping behavior.
+
 ### [Conference Management System](https://github.com/Lucccccys/Conference-Web-App)
 *PHP · MySQL · HTML/CSS*
 
